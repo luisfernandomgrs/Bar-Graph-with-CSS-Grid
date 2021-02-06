@@ -6,3 +6,7 @@
 <code>
   https://css-tricks.com/creating-a-bar-graph-with-css-grid/
 </code>
+
+<h1>Como ficará o resultado final</h1>
+
+![image](https://user-images.githubusercontent.com/72364037/107104039-ce929880-67fe-11eb-9eac-c5054c358309.png)
